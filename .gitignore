@@ -1,2 +1,5 @@
 # remove virtual env from the stagged files
-code/venv
+venv
+
+# remove the checkpoints of jupyter notebook
+*/.ipynb_checkpoints/*.ipynb
